@@ -1,0 +1,73 @@
+1197 27 100 30 10 80    1) l; l atramos; sijos h ir b; lentynos h ir b;
+120.0  2.0 113.0       2) q skaic; normatyvine q trump. ir q ilgalaik
+15 25  1 1.0          3) betono klases (Bmin Bmax)  kiet  gama
+5  4  5  14 25       4) max eil.; ar.kl.Nr (min max); d(min max)
+5 10  0.97          5) gn.arm.kl.Nr; Fleist.cm (kai 0 - pagal norm); riz
+ 7,5  10   12   15   20   25   30   35   40       betono klasiu masyvas
+ 1    2    3    4    5    6    7    8    9       klasiu eiles Nr
+BpI  BpII AI   AII  AIII A3v  AIV  AV   AVI      ar-ros klasiu masyvas
+
+  598 21 30 12  8 45      1)
+12.0 1.5 10.0            2)
+15 25  1  1.0            3)
+ 3  1  5  3 20           4)
+ 0  5  0.97              5)
+ 7,5  10   12   15   20   25   30   35   40       betono klasiu masyvas
+ 1    2    3    4    5    6    7    8    9       klasiu eiles Nr
+BpI  BpII AI   AII  AIII A3v  AIV  AV   AVI      ar-ros klasiu masyvas
+ 
+  598 21 30 40  0  0          1)
+18.0 1.0 16.0                2)
+15 20  1  1.0                3)
+ 2  1  5  3 20               4)
+ 0 10  0.97                  5)
+
+145  12 9 12  0  0          1)
+  9.0 1.0  7.0               2)
+20 30  1  1.0                3)
+ 1  5  5  6 10               4)
+ 0  1  1.0                   5)
+
+
+ 598 21 40 18 10 40     1) l; l atramos; sijos h ir b; lentynos h ir b;
+ 50.0 1.5 46.0         2) q skaic; normatyvine q trump. ir q ilgalaik
+20 25  0  1.0         3) betono klases (Bmin Bmax)  kiet  gama
+ 3  5  5 18 20       4) max eil.; ar.kl.Nr (min max); d(min max)
+ 4  5  0.97         5) gn.arm.kl.Nr; Fleist.cm (kai 0 - pagal norm); riz
+
+ 598 24 60 20 10 40          1)
+ 60.0 1.5 56.0               2)
+20 25  0  1.0                3)
+ 2  1  5  3 22               4)
+ 0  0   0.97                 5)
+
+ 598 21 30 40  0  0      1) l; l atramos; sijos h ir b; lentynos h ir b;
+42.0 2.0 37.0            2) q skaic; normatyvine q trump. ir q ilgalaik
+15 25  1  1.0            3) bet. klase min ir max; sutinimo kodas; gama
+ 2  1  5  3 20           4)
+ 4 10  0.97              5)
+
+PIRMOJE EILUTEJE: sijos konstrukcinis ilgis (cm); atremimo ilgis (cm);
+                  skerspjuvio h ir b bei lentynos h ir b (cm). Minimalu
+                  atremimo ilgi salygoja atsparumas glemzimui arba tem-
+                  piamos armaturos diametras (priimta, kad l>10d. Apie
+                  ilgio napakankamuma kompiuteris informuoja).
+                  Kai skerspjuvis staciakampis, lentynos h=0.
+ANTROJE EILUTEJE: naudinga skaiciojamoji perdenginio apkrova (kN/kv.m);
+                  normatyvines trumpalaike ir ilgalaike apkrovos (kN/kv.m)
+TRECIOJE EILUT.:  betono klases (nuo Bmin iki Bmax); betono kietinimas
+                  (kai naturalus - 0, kai sutinant - 1); betono darbo sa-
+                  lygu koeficientas.
+KETVIRTOJE EIL.:  tempiamos armaturos isdestymo skerspjuvio aukstyje lei-
+                  dziamas eiliu skaicius; arm-ros klases min ir max (nuro-
+                  domi armaturos klasiu masyvo eiles numeriai); apatines
+                  ar-ros max diametrai (mm) nuo min iki max.
+PENKTOJE EIL.:    gniuzdomos zonos armavimas: armaturos klase (kai 0 -
+                  bet kuri is BpI, AI, AII ir AIII, o kai nurodomas kuris
+                  nors is siu klasiu masyvo eiles Nr, tai gn. zona armuo-
+                  jama nurodytos klases armatura. Rekomenduojama pradeti 0
+                  ir koreguoti po to); leidziamas ilinkis (cm. Kai 0 -
+                  pagal normas); rizikos koeficientas (pvz., priimto ir
+                  reikiamo armaturos kiekio santykis, paskaiciuoto ir lei-
+                  dziamo ilinkio santykis ir t.t.).
+

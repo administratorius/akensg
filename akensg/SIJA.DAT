@@ -1,0 +1,80 @@
+12.0 120 30 10 80 20 1 0
+150.0 0.8
+15 30 1 1.0
+5 6 18 28 20 14
+ 1 10
+7,5  10   12   15   20   25   30   35   40       betono klasiu masyvas
+ 1    2    3    4    5    6    7    8    9   10  ar-ros klasiu eiles Nr
+Bp-1 AI   AII  AIII A3b1 A3b2 BpII AIV  AV   AVI  ar-ros klasiu masyvas
+
+ 2.0  10 12  0 80 12 1 0       1)
+ 4.0 0.8                      2)
+15 30 1 1.0                    3)
+4 4  6 10 18 12                4)
+ 1 10                          5)
+7,5  10   12   15   20   25   30   35   40       betono klasiu masyvas
+ 1    2    3    4    5    6    7    8    9   10  ar-ros klasiu eiles Nr
+Bp-1 AI   AII  AIII A3b1 A3b2 BpII AIV  AV   AVI  ar-ros klasiu masyvas
+
+12.0 120 30  0 80 20 1 0       1)
+135.0 0.8                      2)
+15 30 1 1.0                    3)
+2 4 18 28 18 12                4)
+ 1 10                          5)
+7,5  10   12   15   20   25   30   35   40       betono klasiu masyvas
+ 1    2    3    4    5    6    7    8    9   10  ar-ros klasiu eiles Nr
+Bp-1 AI   AII  AIII A3b1 A3b2 BpII AIV  AV   AVI  ar-ros klasiu masyvas
+
+9.0 90 30  0 40 14 1 0         1)
+140.0 0.8                      2)
+15 30 1 1.0                    3)
+2 4 18 28 16 10                4)
+ 1 10                          5)
+7,5  10   12   15   20   25   30   35   40       betono klasiu masyvas
+ 1    2    3    4    5    6    7    8    9   10  ar-ros klasiu eiles Nr
+Bp-1 AI   AII  AIII A3b1 A3b2 BpII AIV  AV   AVI  ar-ros klasiu masyvas
+
+9.0 90 30 10 40 14 1 0         1)
+150.0 0.8                      2)
+15 30 1 1.0                    3)
+2 4 18 28 16 12                4)
+ 1 10                          5)
+7,5  10   12   15   20   25   30   35   40       betono klasiu masyvas
+ 1    2    3    4    5    6    7    8    9   10  ar-ros klasiu eiles Nr
+Bp-1 AI   AII  AIII A3b1 A3b2 BpII AIV  AV   AVI  ar-ros klasiu masyvas
+
+12.0 120 30 10 80 20 1 0       1)
+145.0 0.8                      2)
+15 30 1 1.0                    3)
+2 4 18 28 18 12                4)
+ 1 10                          5)
+7,5  10   12   15   20   25   30   35   40       betono klasiu masyvas
+ 1    2    3    4    5    6    7    8    9   10  ar-ros klasiu eiles Nr
+Bp-1 AI   AII  AIII A3b1 A3b2 BpII AIV  AV   AVI  ar-ros klasiu masyvas
+
+PIRMOJE EILUTEJE: 1) sijos nominalinis ilgis (m)
+                  2...5) skerspjuvio aukstis, plotis ir lentynos
+                         storis bei plotis (cm)
+                  6) atremimo ilgis (cm)
+                  7...8) 0 arba 1 - skerspjuvio briaunos aukscio
+                          ir plocio didinimo galimybe: 0 - neleidziama
+                          didinti, 1 - leidziama
+ANTROJE EILUTEJE: 1) naudinga skaiciojamoji perdenginio apkrova (kN/kv.m)
+                  2) ilgalaikes apkrovos dydis vieneto dalimis nuo
+                    naudingos skaciuojamosios
+TRECIOJE EILUT.:  1...2) betono klases, leidziamos min ir max
+                  3) 0 arba 1 - betono kietinimas: 0 - naturalus,
+                     1 - sutinant
+                  4) betono darbo salygu koeficientas
+KETVIRTOJE EIL.:  1...2) apatines armaturos klases min ir max (nurodomi
+                         ar-ros klasiu masyvo eiles numeriai, masyve
+                         skaiciuojant B ir A raides
+                  3...4) apatines ar-ros min ir max diametrai (mm)
+                  5...6) max virsutines ir skersines armaturos
+                         diametrai (mm)
+PENKTOJE EIL.:    1) 0 arba 1 - gniuzdomos zonos armavimas: 0 - kon-
+                     struktyviai, 1 - pagal skaicivima (dvigubas ar-
+                     mavimas)
+                  2) 0 arba nenormuotas didesnis ilinkis (cm).
+                     Kai 0 - leistinas ilinkis pagal normas
+

@@ -1,0 +1,618 @@
+             22 2 3 4 1 4 4 2 4 4     *2* Pasukta 90 laipsniu desinen
+1. Mazgu ir tarpiniu pjuviu abscises X
+   6.00   0.00   3.00   6.00   3.00   6.00   0.00   3.00
+   6.00   6.00   9.00   0.00   0.00   3.00   3.00   6.00
+   6.00   9.00   0.00   3.00   6.00   9.00  3  3
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+  15.00  12.20  12.20  12.20  10.50  10.50   8.00   8.00
+   8.00   8.00   8.00   6.00   4.00   4.00   4.00   4.00
+   4.00   4.00   0.00   0.00   0.00   0.00   3  1
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0  0  0  1    0  0  3  3    2  0  0  2    0  3  0  3    0  2  0  2
+  0  2  0  2    0  3  3  3    3  3  3  3    3  2  3  2    2  3  2  3
+  2  0  0  0    0  0  0  0    0  0  3  3    3  2  2  3    2  3  3  2
+  3  3  2  2    2  2  3  3    3  0  0  3    0  3  3  0    2  2  0  0
+  0  2  2  0    2  1  0  0
+4. Vertikaliai atremtu mazgu numeriai
+    1 8 11
+5. Horizontaliai atremtu mazgu numeriai
+    4 8 19 21
+6. Atramu, kuriose standziai itvirtinta > kaip 1 strypas, numeriai
+    8
+7. Vert.konc.apkrovos (F, X ir Y)
+   24.0 6.0 6.0  -5.0 0.0 4.0  -5.0 7.5 4.0  4.5 7.5 0.0
+8. Horizont.konc.apkrovos (F, X ir Y)
+  -6.0 3.0 11.2  -5.0 0.0 6.0  8.0 3.0 6.0  -9.0 3.0 2.0
+9. Isores jegu momentai (M, X ir Y)
+   14.0 0.0 12.2   -12.0 4.5 8.0
+10. Vert.isskirst.apkrovos (P, Y, X1 ir X2)
+    8.0 3.0 0.0 6.0 4.5  8.0 -10.0 4.5 -4.0 9.0  4.0 0.0 0.0 -6.0 4.5
+    0.0 5.0 0.0 5.0 3.0
+11 Horizont.isskirs.apkrovos (P, X, Y1 ir Y2)
+    6.0 -6.5 6.0 -3.5 15.0  3.0 -7.0 0.0 -3.0 6.0  6.0 8.0 2.0 0.0 6.0
+    9.0 -3.5 0.0 -1.5 4.0
+12. Santykiniai standumai (mazgo Nr..gretimo mazgo Nr..sant,standumas)
+     2 3 1.5  2 7 2.0  7 8 2.5  8 9 2.0  8 15 2.5  9 11 1.5  10 16 2.5
+	13 14 2.0  13 19 1.8  14 20 1.5  15 16 2.0  19 20 2.5/
+
+      22 2 4 3 1 4 4 2 4 4   ORIGINALAS
+1. Mazgu ir tarpiniu pjuviu abscises X
+   7.00  11.00  15.00   0.00   2.80   4.50   7.00   7.00
+  11.00  11.00  15.00   2.80   4.50   7.00  11.00  11.00
+  15.00   2.80   7.00   9.00  11.00  15.00 12   14  7
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+   9.00   9.00   9.00   6.00   6.00   6.00   6.00   6.00
+   6.00   6.00   6.00   3.00   3.00   3.00   3.00   3.00
+   3.00   0.00   0.00   0.00   0.00   0.00  3     3  8
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0  0  0  2    0  0  3  3    1  0  0  2    0  0  1  0    3  0  3  0
+  2  0  2  0    3  2  3  2    2  3  2  3    3  2  2  3    2  3  3  2
+  2  2  0  0    0  0  2  2    2  0  2  0    3  3  3  3    3  3  2  2
+  2  2  3  3    2  0  0  2    0  3  3  0    3  3  3  0    0  0  0  0
+  0  3  3  0    3  3  0  0
+4. Vertikaliai atremtu mazgu numeriai
+    5 11 14 22
+5. Horizontaliai atremtu mazgu numeriai
+   1 4 14
+6. Atramu, kuriose standziai itvirtinta > kaip 1 strypas, numeriai
+    14
+7. Vert.konc.apkrovos (F, X ir Y)
+   6.0 3.8 3.0  -8.0 9.0 3.0  9.0 13.0 3.0  5.0 9.0 0.0  5 12 6
+8. Horizont.konc.apkrovos (F, X ir Y)
+  -5.0 11.0 7.5   4.5 15.0 7.5   24.0 9.0 6.0  -5.0 11.0 0.0
+9. Isores jegu momentai (M, X ir Y)
+   -12.0 7.0 4.5  14.0 2.8 0.0
+10. Vert.isskirst.apkrovos (Y | P1 X1 ir P2 X2)
+  9.0 1.5 11.0 3.5 15.0   6.0 3.5 0.0 6.5 9.0
+   6.0  0.0 9.0 -8.0 13.0   3.0 3.0 9.0 7.0 15.0
+11. Horizont.isskirs.apkrovos (X | P1 Y1 ir P2 Y2)
+   7.0 -10.0 4.5 -4.0 9.0    7.0 3.0 0.0 6.0 4.5
+   11.0  0.0 0.0 -6.0 4.5   15.0 5.0 0.0 5.0 3.0
+12. Santykiniai standumai (mazgo Nr..gretimo mazgo Nr..sant,standumas)
+     7  9 2.5   8  1 1.5   8 14 2.0   9 15 2.0  10 11 1.5  14 15 2.5 
+	14 19 2.5  16 17 1.5  16 21 2.0  18 12 1.5  18 19 2.0  21 22 1.8
+	  22 17 2.5/
+
+     2 0 0 1 2 0 0 0 1 0
+1. Mazgu ir tarpiniu pjuviu abscises X
+   0 6
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+   0 0
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0 0 3 0  2 0 0 0   
+4. Vertikaliai atremtu mazgu numeriai
+     1 2
+5. Horizontaliai atremtu mazgu numeriai
+     1 
+6. Mazgu, kuriuose itvirtinti > kaip 2 strypai, numeriai
+      0
+7. Vert.konc.apkrovos (F, X ir Y)
+   05 5 0   5 10 0  2 7.5 0 
+8. Horizont.konc.apkrovos (F, X ir Y)
+   05.0 7.5
+9. Isores jegu momentai (M, X ir Y)
+  010.0 7.5 0
+10. Vert.isskirst.apkrovos (Y | P1 X1 ir P2 X2)
+    0 3 0 5 6    
+11. Horizont.isskirs.apkrovos (X | P1 Y1 ir P2 Y2)
+
+   2 2 2 1 0 2 0 0 1 0
+1. Mazgu ir tarpiniu pjuviu abscises X
+   0 15 4 8 12
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+   0 0 0 0 0
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0 0 2 0  2 0 0 0   
+4. Vertikaliai atremtu mazgu numeriai
+     1 2
+5. Horizontaliai atremtu mazgu numeriai
+     1 
+6. Mazgu, kuriuose itvirtinti > kaip 2 strypai, numeriai
+      0
+7. Vert.konc.apkrovos (F, X ir Y)
+   5 5 0   5 10 0  2 7.5 0 
+8. Horizont.konc.apkrovos (F, X ir Y)
+   5.0 7.5
+9. Isores jegu momentai (M, X ir Y)
+  10.0 7.5 0
+10. Vert.isskirst.apkrovos (Y | P1 X1 ir P2 X2)
+    0 3 0 6 12    
+11. Horizont.isskirs.apkrovos (X | P1 Y1 ir P2 Y2)
+    0 2 0 5 3  0 2 3.9 5 6/
+
+
+           22 0 3 4 1 4 4 2 4 4     *2* Pasukta 90 laipsniu KAIREN
+1. Mazgu ir tarpiniu pjuviu abscises X
+   0 3 6 9   0 3 3 6 6 9  9  0 3 3 6 9   3 6   3 6 9   3
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+  15 15 15 15  11 11 11 11 11 11  9  7 7 7 7 7  4.5 4.5  2.8 2.8 2.8  0
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0 0 2 1   2 0 0 2   0 0 2 2   3 0 0 3   0 3 3 0   3 3 2 2   2 2 3 3 
+  3 2 2 3   2 3 3 2   3 3 0 0   0 0 0 0   0 0 2 0   3 2 3 2   2 3 2 3 
+  3 3 3 3   3 3 0 3   0 2 0 2   0 2 0 2   0 3 0 3   0 2 2 0   3 3 0 0 
+  0 1 0 0
+4. Vertikaliai atremtu mazgu numeriai
+    12 15 22
+5. Horizontaliai atremtu mazgu numeriai
+    2 4 15 19
+6. Atramu, kuriose standziai itvirtinta > kaip 1 strypas, numeriai
+    15
+7. Vert.konc.apkrovos (F, X ir Y)
+   -4.5 1.5 15   5 1.5 11   5 9 11   -24 3 9   
+8. Horizont.konc.apkrovos (F, X ir Y)
+   9 6 13   -8 6 9  5 9 9   6 6 3.8
+9. Isores jegu momentai (M, X ir Y)
+   -12 4.5 7   14 9 2.8
+10. Vert.isskirst.apkrovos (P, Y, X1 ir X2)
+    15 -5 6 -5 9   11 6 4.5 0 9   7 4 0 10 4.5   7 -6 4.5 -3 9
+11 Horizont.isskirs.apkrovos (P, X, Y1 ir Y2)
+    0 1.5 11 3.5 15   3 0 9 -8 13   3 3.5 0 6.5 9   6 3 9 7 15
+12. Santykiniai standumai (mazgo Nr..gretimo mazgo Nr..sant,standumas)
+     4 3 2.5  4 10 1.8  6 2 1.5  7 8 2  7 14 2.5  8 15 2.5  9 3 1.5 
+	 9 10 2  13 12 1.5  13 15 2  15 16 2.5  16 21 2  21 20 1.5 /
+
+   22 0 4 3 1 4 4 2 4 4  Pasukta 180 l.  ZIUR.PASTABAS APACIOJE
+1. Mazgu ir tarpiniu pjuviu abscises X
+   0.00   4.00   6.00   8.00 12.20   0.00   4.00   4.00
+   8.00  10.50  12.20   0.00   4.00   4.00   8.00   8.00
+  10.50  12.20  15.00   0.00   4.00   8.00 
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+   9.00   9.00   9.00   9.00   9.00   6.00   6.00   6.00
+   6.00   6.00   6.00   3.00   3.00   3.00   3.00   3.00
+   3.00   3.00   3.00   0.00   0.00   0.00 
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0  0  3  3    3  0  0  3    0  0  0  0    3  0  3  3    3  0  0  3
+  0  2  2  0    3  3  2  2    2  2  3  3    3  3  3  3    2  0  2  0
+  2  2  0  0    0  0  2  2    3  2  2  3    2  3  3  2    3  2  3  2
+  2  3  2  3    2  0  2  0    3  0  3  0    1  0  0  0    0  2  1  0
+  3  3  0  0    0  2  0  0
+4. Vertikaliai atremtu mazgu numeriai
+    1 9 12 18
+5. Horizontaliai atremtu mazgu numeriai
+    9 19 22
+5. Atramu, kuriose standziai itvirtinta > kaip 1 strypas, numeriai
+    9
+7. Vert.konc.apkrovos (F, X ir Y)
+   -5 6 9   -9 2 6   8 6 6   -6 11.2 6
+8. Horizont.konc.apkrovos (F, X ir Y)
+   5 4 9   -24 6 3   -4.5 0 1.5  5 4 1.5
+9. Isores jegu momentai (M, X ir Y)
+    14.0 12.2 9.0  -12.0 8.0 4.5
+10. Vert.isskirst.apkrovos (P, Y, X1 ir X2)
+   6 -7 0 -3 6   3 8 2 0 6   3 -6.5 6 -3.5 15   0 -3.5 0 -1.5 4
+11. Horizont.isskirs.apkrovos (P, X, Y1 ir Y2)
+   0 -5 6 -5 9   4 6 4.5 0 9   8 -6 4.5 -3 9   8 4 0 10 4.5
+12. Santykiniai standumai (mazgo Nr..gretimo mazgo Nr..sant,standumas)
+     1 2 1.8  1 6 2.5  2 1 1.8  2 7 2.0  4 5 2.0  4 9 2.5  5 4 2.0  
+     5 11 1.5  7 6 1.5  7 2 2.0  8 9 2.5  8 14 2.0  9 8 2.5  9 4 2.5
+     9 16 2.0  14 8 2.0  14 15 2.5  15 14 2.5  16 9 2.0  16 22 1.5/  
+
+ 22 0 4 3 1 4 4 2 4 4   T veidrodiskas "1" (vertikalei)
+ 1. Mazgu ir tarpiniu pjuviu abscises X
+   0.00   4.00   8.00   0.00   4.00   4.00   8.00   8.00
+  10.50  12.20  15.00   0.00   4.00   4.00   8.00  10.50
+  12.20   0.0    4.00   6.00   8.00  12.20  10.0
+ 2. Mazgu ir tarpiniu pjuviu ordinates Y
+   9.00   9.00   9.00   6.00   6.00   6.00   6.00   6.00
+   6.00   6.00   6.00   3.00   3.00   3.00   3.00   3.00
+   3.00   0.00   0.00   0.00   0.00   0.00   6.0
+ 3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0  0  1  2    3  0  0  3    0  0  0  2    0  2  2  0    3  3  2  2
+  2  2  3  3    3  2  3  2    2  3  2  3    2  0  2  0    3  0  3  0
+  1  0  0  0    0  0  2  2    3  2  2  3    2  3  3  2    3  3  3  3
+  2  0  2  0    2  0  0  2    0  3  3  0    3  3  0  0    0  0  0  0
+  3  3  3  0    3  3  0  0
+ 4. Vertikaliai atremtu mazgu numeriai
+    4 10 15 18
+ 5. Horizontaliai atremtu mazgu numeriai
+    3 11 15
+ 6. Atramu, kuriose standziai itvirtinta > kaip 1 strypas, numeriai
+    15
+ 7. Vert.konc.apkrovos (F, X ir Y)
+   9.0 2.0 3.0  -8.0 6.0 3.0  6.0 11.2 3.0  5.0 6.0 0.0
+ 8. Horizont.konc.apkrovos (F, X ir Y)
+  -4.5 0.0 7.5   5.0 4.0 7.5   -24.0 6.0 6.0  5.0 4.0 0.0
+ 9. Isores jegu momentai (M, X ir Y)
+    12.0 8.0 4.5  -14.0 12.2 0.0
+10. Vert.isskirst.apkrovos (Y | P1 X1 ir P2 X2)
+   9.0 3.5 0.0 1.5 4.0  6.0 -8.0 2.0 0.0 6.0  6.0 6.5 6.0 3.5 15.0
+   3.0 7.0 0.0 3.0 6.0
+11. Horizont.isskirs.apkrovos (X | P1 Y1 ir P2 Y2)
+    0.0 -5.0 0.0 -5.0 3.0   4.0 0.0 0.0 6.0 4.5  
+	8.0 10.0 4.5 4.0 9.0    8.0 -3.0 0.0 -6.0 4.5
+12. Santykiniai standumai (mazgo Nr..gretimo mazgo Nr..sant,standumas)
+     5 4 1.5  6 7 2.5  6 14 2.0  8 3 1.5  8 15 2.0  13 12 1.5  13 19 2.0
+	14 15 2.5  15 21 2.5  18 12 2.5  18 19 1.8  21 22 2.0  22 17 1.5 /
+
+   19 1 4 3 1 4 4 2 4 4   "1"   9 >< 10
+1. Mazgu ir tarpiniu pjuviu abscises X
+   7 11 15 0 2.8 4.5 7 11 15 2.8 4.5 7 11 15 2.8 7 9 11 15 13.5  
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+   9.00   9.00   9.00   6.00   6.00   6.00   6.00   6.00
+   6.00   3.00   3.00   3.00   3.00   3.00   0.00   0.00
+   0.00   0.00   0.00  3.0
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0  0  0  2    0  0  3  3    1  0  0  2    0  0  1  0    3  0  3  0
+  2  0  2  0    3  3  3  3    3  3  3  3    2  2  0  0    0  0  2  2
+  2  0  2  0    3  3  3  3    3  3  3  3    2  0  0  2    0  3  3  0
+  3  3  3  0    0  0  0  0    0  3  3  0    3  3  0  0
+4. Vertikaliai atremtu mazgu numeriai
+    5 9 12 19
+5. Horizontaliai atremtu mazgu numeriai
+    1 9 12
+6. Atramu, kuriose standziai itvirtinta > kaip 1 strypas, numeriai
+    12
+7. Vert.konc.apkrovos (F, X ir Y)
+   6.0 3.8 3.0  -8.0 9.0 3.0  9.0 13.0 3.0  5.0 9.0 0.0
+8. Horizont.konc.apkrovos (F, X ir Y)
+  -5.0 11.0 7.5   4.5 15.0 7.5   24.0 9.0 6.0  -5.0 11.0 0.0
+9. Isores jegu momentai (M, X ir Y)
+   -12.0 7.0 4.5  14.0 2.8 0.0
+10. Vert.isskirst.apkrovos (Y | P1 X1 ir P2 X2)
+  9.0 1.5 11.0 3.5 15.0   6.0 3.5 0.0 6.5 9.0
+  6.0  0.0 9.0 -8.0 13.0   3.0 3.0 9.0 7.0 15.0
+11. Horizont.isskirs.apkrovos (X | P1 Y1 ir P2 Y2)
+      7 -10 4.5 -4 9     7.0 3.0 0.0 6.0 4.5
+   11.0  0.0 0.0 -6.0 4.5   15.0 5.0 0.0 5.0 3.0
+12. Santykiniai standumai (mazgo Nr..gretimo mazgo Nr..sant,standumas)
+     7 1 1.5  7 8 2.5  7 12 2.0  8 9 1.5  8 13 2.0  12 7 2.0  12 13 2.5
+	 12 16 2.5  13 14 1.5  13 18 2.0  15 10 1.5  15 16 2.0  18 19 1.8  
+	 19 14 2.5 /
+
+         19 0 3 4 1 4 4 2 4 4     *2* Pasukta 90 laipsniu (pastabos apacioj)
+1. Mazgu ir tarpiniu pjuviu abscises X
+   6.00   0.00   3.00   6.00   3.00   6.00   0.00   3.00
+   6.00   9.00   0.00   0.00   3.00   6.00   9.00   0.00
+   3.00   6.00   9.00
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+  15.00  12.20  12.20  12.20  10.50  10.50   8.00   8.00
+   8.00   8.00   6.00   4.00   4.00   4.00   4.00   0.00
+   0.00   0.00   0.00   
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0  0  0  1    0  0  3  3    2  0  0  2    0  3  0  3    0  2  0  2
+  0  2  0  2    0  3  3  3    3  3  3  3    3  3  3  3    2  0  0  0
+  0  0  0  0    0  0  3  3    3  3  3  3    3  3  3  3    3  0  0  3
+  0  3  3  0    2  2  0  0    0  2  2  0    2  1  0  0
+4. Vertikaliai atremtu mazgu numeriai
+    8 10 18
+5. Horizontaliai atremtu mazgu numeriai
+    4 8 16 18
+6. Atramu, kuriose standziai itvirtinta > kaip 1 strypas, numeriai
+    8
+7. Vert.konc.apkrovos (F, X ir Y)
+   24.0 6.0 6.0  -5.0 0.0 4.0  -5.0 7.5 4.0  4.5 7.5 0.0
+8. Horizont.konc.apkrovos (F, X ir Y)
+  -6.0 3.0 11.2  -5.0 0.0 6.0  8.0 3.0 6.0  -9.0 3.0 2.0
+9. Isores jegu momentai (M, X ir Y)
+   14.0 0.0 12.2   -12.0 4.5 8.0
+10. Vert.isskirst.apkrovos (P, Y, X1 ir X2)
+    8.0 3.0 0.0 6.0 4.5  8.0 -10.0 4.5 -4.0 9.0  4.0 0.0 0.0 -6.0 4.5
+    0.0 5.0 0.0 5.0 3.0
+11. Horizont.isskirs.apkrovos (P, X, Y1 ir Y2)
+    6.0 -6.5 6.0 -3.5 15.0  3.0 -7.0 0.0 -3.0 6.0  6.0 8.0 2.0 0.0 6.0  
+    9.0 -3.5 0.0 -1.5 4.0
+12. Santykiniai standumai (mazgo Nr..gretimo mazgo Nr..sant,standumas)
+     2 3 1.5  2 7 2.0   7 2 2.0  7 8 2.5  8 7 2.5   8 9 2.0  8 13 2.5
+	 9 8 2.0   9 10 1.5  9 14 2.5 12 13 2.0  12 16 1.8  13 12 2.0
+	13 8 2.5  13 14 2.0  13 17 1.5  14 13 2.0 14 9 2.5  14 18 1.5
+	16 12 1.8   16 17 2.5
+Butinai uzbaigti nuliais!!!
+
+     13 0 3 3 0 3 2 2 4 3                     ZIUR.PASTABAS APACIOJE
+1. Mazgu ir tarpiniu pjuviu abscises X
+   0 4 7 9 4 7 0 4 4 9 0 4 9
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+   6 6 6 6 5 5 3 3 3 3 0 0 0
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0 0 1 2  3 0 3 3  3 0 3 3  2 0 0 2  0 3 3 3  3 3 0 0  0 3 2 3
+  3 2 2 3  2 3 3 2  3 3 0 3  0 2 0 0  0 3 0 0  0 2 0 0
+4. Vertikaliai atremtu mazgu numeriai
+     11 12 13
+5. Horizontaliai atremtu mazgu numeriai
+     11 12 13
+6. Mazgu, kuriuose itvirtinti > kaip 2 strypai, numeriai
+      0
+7. Vert.konc.apkrovos (F, X ir Y)
+   12 2.5 3  6 5.5 3  -8 7 3  
+8. Horizont.konc.apkrovos (F, X ir Y)
+   9 9 4.5  8 4 1.5  
+9. Isores jegu momentai (M, X ir Y)
+   11 4 5  -9 7 3  
+10. Vert.isskirst.apkrovos (Y | P1 X1 ir P2 X2)
+    6 0 0 9 4.5  6 12 4.5 0 9  5 10 4 10 7  3 12 0 3 2.5
+11. Horizont.isskirs.apkrovos (X | P1 Y1 ir P2 Y2)
+    4 -10 5 0 6  7 10 5 0 6  9 3 1 9 6  
+12. Santykiniai standumai (mazgo Nr..gretimo mazgo Nr..sant,standumas)
+     8 7 2  8 12 1.5  9 10 2.5  10 4 1.5  10 13 2 /
+
+   6 1 2 2 0 0 0 0 2 2
+1. Mazgu ir tarpiniu pjuviu abscises X
+   0 6 0 6 0 6 4.2
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+   6 6 3 3 0 0 3
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0 0 3 3  3 0 0 3  0 3 3 3  2 3 0 3  0 3 0 0  0 2 0 0  
+4. Vertikaliai atremtu mazgu numeriai
+     5 6
+5. Horizontaliai atremtu mazgu numeriai
+     5 6
+6. Mazgu, kuriuose itvirtinti > kaip 2 strypai, numeriai
+      0
+7. Vert.konc.apkrovos (F, X ir Y)
+   20.0 3.0 0.0 
+8. Horizont.konc.apkrovos (F, X ir Y)
+   0.0 9.0  5.0
+9. Isores jegu momentai (M, X ir Y)
+  10.0 2.5 0
+10. Vert.isskirst.apkrovos (Y | P1 X1 ir P2 X2)
+    6 3 0 9 6   3 3 1.5 6 4.8
+11. Horizont.isskirs.apkrovos (X | P1 Y1 ir P2 Y2)
+    0 2 0 5 3  0 2 3.9 5 6/
+	0
+
+9 0 5 1 0 2 0 3 2 0                         ZIUR.PASTABAS APACIOJE
+1. Mazgu ir tarpiniu pjuviu abscises X
+   0.0 2.0 5.0 6.5 9.5 12.0 14.0 16.0 17.4
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+   0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0
+4. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0  0  3  0    2  0  2  0    2  0  2  0    3  0  3  0    3  0  3  0
+  3  0  3  0    2  0  2  0    3  0  3  0    0  0  0  0
+5. Vertikaliai atremtu mazgu numeriai
+     1 4 5 6 8
+6. Horizontaliai atremtu mazgu numeriai
+     1
+7. Mazgu, kuriuose itvirtinti > kaip 2 strypai, numeriai
+      0
+8. Vert.konc.apkrovos (F, X ir Y)
+   20.0 4.0 0.0  -15.0 13.0 0.0
+9. Horizont.konc.apkrovos (F, X ir Y)
+   0.0 9.0  5.0
+10. Isores jegu momentai (M, X ir Y)
+  -10.0 -1.999 0.0  -22.0 8.0 10.0  14.0 19.5 0.0
+11. Vert.isskirst.apkrovos (Y | P1 X1 ir P2 X2)
+    0.0 4.0 4.0 11.0 11.0  0.0 6.3 13.0 3.0 17.4
+12. Horizont.isskirs.apkrovos (X | P1 Y1 ir P2 Y2)
+    0
+
+    4 0 4 1 0 2 0 0 0 0   ???? - SCHEMA      ZIUR.PASTABAS APACIOJE
+1. Mazgu ir tarpiniu pjuviu abscises X
+   0.0 2.0 5.0 7.5 
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+   0.0 0.0 0.0 0.0 
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0  0  3  0    2  0  2  0    3  0  3  0    2  0  0  0 
+4. Vertikaliai atremtu mazgu numeriai
+     1 2 3 4
+5. Horizontaliai atremtu mazgu numeriai
+     1
+6. Mazgu, kuriuose itvirtinti > kaip 2 strypai, numeriai
+      0
+7. Vert.konc.apkrovos (F, X ir Y)
+   20.0 4.0 0.0  -15.0 6.0 0.0
+8. Horizont.konc.apkrovos (F, X ir Y)
+   0.0 9.0  5.0
+9. Isores jegu momentai (M, X ir Y)
+  -10.0 1.999 0.0  -22.0 8.0 0.0  14.0 9.5 0.0
+10. Vert.isskirst.apkrovos (Y | P1 X1 ir P2 X2)
+    0.0 4.0 4.0 11.0 11.0  0.0 6.3 13.0 3.0 17.4
+11. Horizont.isskirs.apkrovos (X | P1 Y1 ir P2 Y2)
+    0 
+
+    12 0 2 2 0 5 2 0 1 1                         ZIUR.PASTABAS APACIOJE
+1. Mazgu ir tarpiniu pjuviu abscises X
+   0 6 12 0 4 6 12 0 6 12 0 12
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+   8 8 8 6 6 5.5 5.5 3 3 3 0 0
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0 0 3 3  2 0 2 2  3 0 0 3  0 3 3 3  0 0 0 0  0 3 2 3  3 3 0 3
+  0 3 3 3  3 3 3 0  3 3 0 3  0 3 0 0  0 3 0 0
+4. Vertikaliai atremtu mazgu numeriai
+     11 12
+5. Horizontaliai atremtu mazgu numeriai
+     11 12
+6. Mazgu, kuriuose itvirtinti > kaip 1 strypas, numeriai
+      0
+7. Vert.konc.apkrovos (F, X ir Y)
+   10 3 8  9 9 8  8 4 6  7 9 5.5  6 3 3
+8. Horizont.konc.apkrovos (F, X ir Y)
+   8 6 4.5  9 12 5
+9. Isores jegu momentai (M, X ir Y)
+    0 
+10. Vert.isskirst.apkrovos (Y | P1 X1 ir P2 X2)
+    3 5 6 5 12
+11. Horizont.isskirs.apkrovos (X | P1 Y1 ir P2 Y2)
+    0 1 0 3 8
+12. Santykiniai standumai (mazgo Nr..gretimo mazgo Nr..sant,standumas)
+	 1 2 2   1 4 1.5   3 2 2   3 7 1.5   4 1 1.5   4 8 1.5   6 2 1.5 
+	 6 9 1.5  7 6 2  7 3 1.5  7 10 1.5  8 4 1.5  8 9 2.5  8 11 2  
+	 9 8 2.5  9 6 1.5  9 10 2.5  10 9 2.5  10 7 1.5  10 12 2  
+	 11 8 2  12 10 2  O O O
+Butinai uzbaigti nuliais!!!
+
+
+    22 0 4 3 1 4 4 2 4 4   T veidrodiskas "1" (vertikalei)
+ 1. Mazgu ir tarpiniu pjuviu abscises X
+   0.00   4.00   8.00   0.00   4.00   4.00   8.00   8.00
+  10.50  12.20  15.00   0.00   4.00   4.00   8.00  10.50
+  12.20   0.0    4.00   6.00   8.00  12.20  10.0
+ 2. Mazgu ir tarpiniu pjuviu ordinates Y
+   9.00   9.00   9.00   6.00   6.00   6.00   6.00   6.00
+   6.00   6.00   6.00   3.00   3.00   3.00   3.00   3.00
+   3.00   0.00   0.00   0.00   0.00   0.00   6.0
+ 3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0  0  1  2    3  0  0  3    0  0  0  2    0  2  2  0    3  3  2  2
+  2  2  3  3    3  2  3  2    2  3  2  3    2  0  2  0    3  0  3  0
+  1  0  0  0    0  0  2  2    3  2  2  3    2  3  3  2    3  3  3  3
+  2  0  2  0    2  0  0  2    0  3  3  0    3  3  0  0    0  0  0  0
+  3  3  3  0    3  3  0  0
+ 4. Vertikaliai atremtu mazgu numeriai
+    4 10 15 18
+ 5. Horizontaliai atremtu mazgu numeriai
+    3 11 15
+ 6. Atramu, kuriose standziai itvirtinta > kaip 1 strypas, numeriai
+    15
+ 7. Vert.konc.apkrovos (F, X ir Y)
+   9.0 2.0 3.0  -8.0 6.0 3.0  6.0 11.2 3.0  5.0 6.0 0.0
+ 8. Horizont.konc.apkrovos (F, X ir Y)
+  -4.5 0.0 7.5   5.0 4.0 7.5   -24.0 6.0 6.0  5.0 4.0 0.0
+ 9. Isores jegu momentai (M, X ir Y)
+    12.0 8.0 4.5  -14.0 12.2 0.0
+10. Vert.isskirst.apkrovos (Y | P1 X1 ir P2 X2)
+   9.0 3.5 0.0 1.5 4.0  6.0 -8.0 2.0 0.0 6.0  6.0 6.5 6.0 3.5 15.0
+   3.0 7.0 0.0 3.0 6.0
+11. Horizont.isskirs.apkrovos (X | P1 Y1 ir P2 Y2)
+    8.0 10.0 4.5 4.0 9.0  0.0 -5.0 0.0 -5.0 3.0
+    4.0 0.0 0.0 6.0 4.5  8.0 -3.0 0.0 -6.0 4.5
+12. Santykiniai standumai (mazgo Nr..gretimo mazgo Nr..sant,standumas)
+     2 5 1.0  5 4 1.5  5 2 1.0  6 7 2.5  6 14 2.0  7 6 2.5  7 9 1.0
+     8 3 1.5  8 15 2.0  10 9 1.0  13 12 1.5  13 19 2.0  14 6 2.0
+    14 15 2.5  15 14 2.5  15 8 2.0  15 16 1.0  15 21 2.5  18 12 2.5
+    18 19 1.8  19 18 1.8  19 13 2.0  21 15 2.5  21 22 2.0  22 21 2.0
+    22 17 1.5  0 0 0
+Butinai uzbaigti nuliais!!!
+
+   14 0 3 3 0 1 1 2 2 1    ORIGINALAS
+1. Mazgu ir tarpiniu pjuviu abscises X
+   4 9 13 0 4 9 13 0 4 9 13 4 9 13
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+   10 10 10 7 7 7 7 3 3 3 3 0 0 0
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0 0 3 3  3 0 3 3  3 0 0 3  0 0 3 3  3 3 3 3  3 3 3 3  3 3 0 0  
+  0 3 3 0  3 3 3 3  3 3 3 3  3 0 0 3  0 3 3 0  3 3 3 0  3 3 0 0
+4. Vertikaliai atremtu mazgu numeriai
+    7 12 13  
+5. Horizontaliai atremtu mazgu numeriai
+     7 12 13
+6. Mazgu, kuriuose itvirtinti > kaip 1 strypas, numeriai
+      0
+7. Vert.konc.apkrovos (F, X ir Y)
+   10 6 3  
+8. Horizont.konc.apkrovos (F, X ir Y)
+    15 9 5  
+9. Isores momentai  (M, X ir Y)
+    15 9 10   -18 9 0
+10. Vert.isskirst.apkrovos (Y | P1 X1 ir P2 X2)
+    7 5 1 15 7  3 4 3 12 11
+11. Horizont.isskirs.apkrovos (X | P1 Y1 ir P2 Y2)
+   9 15 1.5 3 10 
+
+ 5 0 3 3 0 1 0 0 1 0                          ZIUR.PASTABAS APACIOJE
+1. Mazgu ir tarpiniu pjuviu abscises X
+   0.0 6.0 12.0 0.0 6.0 
+2. Mazgu ir tarpiniu pjuviu ordinates Y
+   4.0 4.0 4.0 0.0 0.0 
+3. Strypu itvirtinimo mazge kodai (kairiau, auksciau, desiniau ir zemiau)
+  0  0  3  3    3  0  3  3    2  0  0  0    0  3  0  0   0  3  0  0
+4. Vertikaliai atremtu mazgu numeriai
+    3 4 5
+5. Horizontaliai atremtu mazgu numeriai
+    3 4 5
+6. Mazgu, kuriuose itvirtinti > kaip 1 strypas, numeriai
+      0
+7. Vert.konc.apkrovos (F, X ir Y)
+    100.0 9.0 4.0 
+8. Horizont.konc.apkrovos (F, X ir Y)
+   0.0 6.0  1.5
+9. Isores jegu momentai (M, X ir Y)
+    0.0 2.0 6.0
+10. Vert.isskirst.apkrovos (Y, P1, X1, P2, X2)
+    4.0 50.0 0.0 50.0 6.0 
+11. Horizont.isskirst.apkrovos (X, P1, Y1, P2, Y2)
+    0.0 5.0 0.0 0.0 5.0
+
+.........................................................................
+             PASTABOS:
+      1. Mazgai (strypu galai, ju sanduros, pjuviai ties atramomis) nu-
+      meruojami knygos puslapio skaitymo tvarka - eiluteje is kaires i 
+	  desine, elutes - is virsaus zemyn. Laisvai pasirenkamus tarpinius 
+	  pjuvius numeruoti nereikia - nurodomos tik ju koordinates (iskart 
+	  po mazgu).
+      2. Statmenai prasilenkianciu strypu koncentruotos apkrovos neturi
+      sutapti su statmeno strypo asimi - turi skirtis bent 0.01 matavimo
+      vieneto dalimi.
+             YPATINGI ATVEJAI:
+      1. Tuo atveju, kai prie galais standziai kampu sujungtu strypu sar-
+      nyru prijungiama kita taip sujungtu strypu pora (pavyzdyje 9-10 ir
+      15-16 mazgai), mazgus numeruojant laikoma, kad yra 2 mazgai, su-
+      jungti nulinio ilgio strypais  su sarnyrais galuose. NUMERUOJANT 
+	  BUTINA MAZESNIUOJU EILES Nr ZYMETI KAIRESNIJI KAMPA. Skaiciavimo 
+	  rezultatuose asines jegos siuose strypuose reiskia jungiamojo sar-
+	  nyro apkrovas.
+      2. Kai prasilenkiantieji vertikalus ir horizontalus strypai sujungia-
+      mi sarnyru (pavyzdyje 7-8 mazgai), mazgus numeruojant laikoma, kad
+      yra du mazgai, sujungti nulinio ilgio strypais su sarnyrais abie-
+      juose galuose. NUMERUOJANT BUTINA MAZESNIUOJU EILES Nr ZYMETI HORI-
+      ZONTALUJI STRYPA.  Rezultatuose asines jegos siuose strypuose reis-
+	  kia sarnyro apkrovas..
+          (1) eiluteje is eiles nurodoma:
+      1.mazgu skaicius; 2.tarpiniu pjuviu skaicius (charakteringus pjuvius
+      ties apkrovomis ir l.momentu ekstremumais nurodineti nereikia); 
+	  3.vertikaliai atremtu mazgu skaicius; 4.horizontaliai atremtu mazgu 
+	  skaicius; 5.atramu,kuriose standziai itvirtinti daugiau kaip 1 stry-
+	  pas, skaicius; 6. vertikaliu konc.apkrovu skaicius; 7.horizontaliu 
+	  konc.apkrovu skaicius; 8.isores jegu momentu skaicius; 9.vertikaliu
+	  isskirstytu apkrovu skaicius; 10.horizontaliu isskirstytu apkrovu 
+	  skaicius. 
+	       Nesant kokios apkrovos, tarpiniu pjuviu ar atramu, rasomi 0.
+           Visi pradiniai duomenys nurodomi numeruotuose blokuose (bet
+      kuriuo atveju jie visi turi islikti - bloku pavadinimai ir bent po
+      viena kad ir nepilna duomenu eilute).
+           Duomenys ivedami laisvai, tarp atskiru reiksmiu paliekant tar-
+      peli. Trupmenine (desimtaine) dalis atskiriama tasku. Jei trupmemine
+	  dalis = 0, galima ivesti tik sveikaja dali net be tasko.
+           Koordinaciu pradzia pasirenkama taip, kad x=0 butu pats kai-
+      riausias ir y=0 - pats zemiausias skaiciuojamoje schemoje mazgas.
+          (1) bloke nurodomi pradzioje mazgu po to tarpiniu pjuviu X.
+          (2) bloke kaip ir (1) - ordinates Y.
+          (3) bloke rasomi strypu itvirtinimo mazge kodai - kairiojo,
+      virsutiniojo, desiniojo ir apatiniojo, po to tas pats kitame mazge
+      ir t.t.: "0"- kai strypo nera (prie konsoles laisvojo galo pazyme-
+      tas mazgas su konsole taip pat nesujungtas), "1"- kai strypas pri-
+      jungtas dvigubu asiniu sarnyru (perduodama tik asine jega), "2" -
+      kai strypas prijungtas vienu sarnyru (perduodama tik skersine ir
+      asine jegos) arba kai konsoles galas sarnyriskai statmenai atrem-
+      tas, "3"- kai strypas itvirtintas standziai (perduodama asine ir
+      skersine jegos bei lenkimo momentas). Kitokie strypu itvirtinimo
+      mazge atvejai programoje nenumatyti.
+          (4) bloke rasomi vertikaliai ir (5) - horizontaliai atremtu
+      mazgu numeriai.
+          (6) bloke rasomi atremtu mazgu, kuriuose standziai itvirtinti
+      daugiau kaip 1 strypas, numeriai.
+          (7) bloke nurodoma vert.konc.apkrovos reiksme (teigiama - ze-
+      myn) bei jos X ir Y, po to tas pats kitos apkrovos ir t.t.
+          (8) bloke kaip ir (1) nurodomi horizontaliu konc. apkrovu duo-
+      menys (teigiamos reiksmes - desinen).
+          (9) bloke - isores jegu momento reiksme (teigiama - laikrodzio
+      rodykles judejimo kryptimi) bei jo X ir Y, po to tas pats kito mo-
+      mento ir t.t.
+          (10) bloke nurodoma vertikalios isskirstytos apkrovos ordinate 
+      Y, kairiojo galo intensyvumas (teigiamas, kai veikia zemyn) P1 ir 
+      abscise X1 bei desiniojo galo atitinkamai P2 ir X2, po to tas pats
+      kitos apkrovos ir t.t.
+          (11) bloke nurodoma horizontalios isskirstytos apkrovos abscise
+      X, apatiniojo galo intensyvumas (teigiamas, kai veikia desinen) P1 
+      ir ordinate Y1 bei virsutiniojo galo atitinkamai P2 ir Y2, po to tas
+      pats kitos apkrovos ir t.t.
+          PASTABA. Nesant kokios apkrovos, po bloko pavadinimu vienoj
+      eilutej uzrasomi bet kokie skaiciai.
+          (12) bloke strypu santykiniai standumai (mazgo Nr - gretimo maz-
+      go Nr - sant.standumas) nurodomi tik tuo atveju, kai toks variantas
+      pasirenkamas atsakant i kompuiterio paklausima. Nurodoma tik tu
+      strypu, kurie mazge itvirtinti standziai, o kitame gale (gretimame
+      mazge) statmenai atremti, arba ant ju sarnyriskai paremti kiti stry-
+      pai (nesvarbu, kad kai kurie is pastaruju strypu yra statiskai
+      issprendziami - kai kam nustatyti issprendziamuma gali buti per
+      daug sudetinga).
+
+      Kompiuteris "nereikalauja", kad duomenys butu surasomi taip tvar-
+      kingai kaip pavyzdyje (plg. 1 ir 3 blokus). Taciau netiks, jeigu
+      bet kuris mazgu, pjuviu, apkrovu ar atramu kiekis bus mazesnis uz
+      nurodyta pirmoje eiluteje kieki arba jeigu didesnis kiekis pereina 
+      i papildoma, jau nereikalinga duomenu eilute. 
+            Apie kai kurias ivedant pradinius duomenis padarytas klaidas
+      kompiuteris informuoja. Jas galima istaisyti ir operatyviai, pagal 
+	  ekrane duodamus nurodymus (po to pataisant ir duomenu faile), taciau
+	  galimi ir atvejai, kad kompiuteris komentuoja nepazistama klaida,
+	  pvz. nurodoma klaidinga apkrovos koordinate, nors is tikruju klaidinga
+	  yra mazgo ar strypo koordinate.

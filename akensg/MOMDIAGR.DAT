@@ -1,0 +1,11 @@
+     0.0  9.0 -8.0  13.0 -21.92 -14.146 11.0  -4.29  -2.146   13.0   9  11
+      P1  X1   P2   X2    WP     QP     XP     WG     QG      XG    N1  N2
+ 
+  P1,X1 - statmenos sijai isskirstytos apkrovos kairiojo (apatinio) galo
+          intensyvumas ir atstumas nuo koordinaciu pradzios
+  P2,X2 - tas pats desiniojo (virsutinio) galo
+  WP,QP,XP - diapazono kairiojo (apatinio) galo l.momentas, sk.jega 
+             ir atstumas nuo koord. pradzios
+  WG,QG,XG - tas pats diapazono desiniojo (virsutino) galo
+  N1,N2 - strypo galu Nr
+
